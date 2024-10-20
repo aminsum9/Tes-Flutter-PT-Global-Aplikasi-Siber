@@ -1,0 +1,2 @@
+- pakai Flutter versi 3.22.2
+- config url ada di lib/config/url.dart, variabel baseUrl diganti dengan ip address komputer misal http://192.168.1.1:8002/api/
